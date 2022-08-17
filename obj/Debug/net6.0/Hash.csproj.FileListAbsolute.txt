@@ -1,0 +1,14 @@
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\Hash.exe
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\Hash.deps.json
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\Hash.runtimeconfig.json
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\Hash.dll
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\ref\Hash.dll
+C:\Users\joele\source\repos\Hash\bin\Debug\net6.0\Hash.pdb
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.AssemblyInfoInputs.cache
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.AssemblyInfo.cs
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.csproj.CoreCompileInputs.cache
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.dll
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\ref\Hash.dll
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.pdb
+C:\Users\joele\source\repos\Hash\obj\Debug\net6.0\Hash.genruntimeconfig.cache
